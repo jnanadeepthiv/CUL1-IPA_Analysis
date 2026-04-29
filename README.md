@@ -54,7 +54,7 @@ The original paper demonstrated that CUL1-IPA maintains nucleolar integrity and 
 
 1. Load raw expression matrix from GEO (GSE297241) — 18 samples across 3 cell lines
 2. Preprocess and filter lowly expressed genes
-3. Fit limma-trend differential expression model with cell-line-stratified design matrix, contrasting ASO-treated vs scramble-control within each cell line
+3. Differential expression model with cell-line-stratified design matrix, contrasting ASO-treated vs scramble-control within each cell line
 4. Extract DEGs (FDR < 0.05) per cell line and identify shared and unique genes using Venn analysis
 5. Infer transcription factor activity using VIPER/DoRothEA on the full expression matrix
 6. Run GSEA using Hallmark gene sets across all three cell lines
