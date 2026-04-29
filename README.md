@@ -19,7 +19,7 @@ The original paper demonstrated that CUL1-IPA maintains nucleolar integrity and 
 ## Languages, Tools, and Packages
 
 **Language**
-- R (v4.5.1)
+- R (v4.5.2)
 
 **Environment**
 - RStudio (v2025.09.2+418)
