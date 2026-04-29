@@ -27,7 +27,7 @@ The original paper demonstrated that CUL1-IPA maintains nucleolar integrity and 
 **Packages**
 
 | Package | Version | Purpose |
-
+|---|---|---|
 | limma | 3.66.0 | Differential expression modelling |
 | edgeR | 4.8.2 | Expression data utilities |
 | ggplot2 | 4.0.2 | Visualisation |
