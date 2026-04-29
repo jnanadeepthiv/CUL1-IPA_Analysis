@@ -1,5 +1,5 @@
 # INFO B528 - Computational Analysis of High-throughput Biomedical Data
-# Project Report — CUL1-IPA Transcriptome Reanalysis
+# Project Report — CUL1-IPA Transcriptome Analysis
 
 **Author:** Jnana Deepthi Vishnumolakala
 **Date:** 04/29/2026
